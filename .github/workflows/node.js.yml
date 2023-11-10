@@ -31,3 +31,10 @@ jobs:
     - run: npm install
     - run: npm run build --if-present
     - run: npm test
+    - name: Update resources
+      uses: test-room-7/action-update-file@v1
+      with:
+        file-path: |
+            lista/online.m3u
+        commit-msg: Update resources
+        github-token: ${{ secrets.TOKEN }
