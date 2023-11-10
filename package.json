@@ -6,6 +6,6 @@
   },
   "scripts": {
     "build": "iptv-checker listinha.m3u8 -o lista",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   }
 }
