@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "fluent-ffmpeg": "^2.1.2",
+    "@iptv/playlist": "^0.0.4",
     "iptv-checker": "^0.28.0"
   },
   "scripts": {
-    "build": "iptv-checker listinha.m3u8 -o lista",
-    "test": "echo \"Error: no test specified\""
+	"build": "npm run list && npm run check",
+	"list": "node index.js > damn.m3u",
+	"check": "iptv-checker damn.m3u -o lista",
+	"test": "echo \"Error: no test specified\""
   }
 }

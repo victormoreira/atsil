@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://45.230.96.42:8080/icones/axn.png" group-title="FILMES&SERIES",AXN
+http://45.230.96.42:80/distv/@distv/632
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/835.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/213.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/4.m3u8
+#EXTINF:-1 group-title="CANAIS: Dublado",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/447.m3u8
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.230.96.42:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://45.230.96.42:80/distv/@distv/604
+#EXTINF:-1 tvg-name="DISCOVERY ID PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="PORTUGAL ",DISCOVERY ID PT
+http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/894.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Documentários" parent-code="",ID HD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Alternativos" parent-code="",ID HDᴬ
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50803
+#EXTINF:-1 group-title="FHD TEST",ID INVESTIGAÇÃO DISCOVERY HD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/38419.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16736.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Documentários" parent-code="",ID SD
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/819.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/257.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY HD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/46.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/501.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/886.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN FHD H265" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/76659.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/209.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.230.96.42:8080/icones/icones/jovempannews.png" group-title="NEWS" EXTINF:-1 tvg-id="",JOVEM PAN NEWS
+http://45.230.96.42:80/distv/@distv/436
+#EXTINF:-1 group-title="TV AO VIVO" type="stream" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png",JOVEM PAN NEWS 1
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 group-title="TV AO VIVO" type="stream" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png",JOVEM PAN NEWS 2
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/847.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
+http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/847.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
+http://cdnrede.com:80/antonio6179ax/976954ax/217691
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD H265" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD H265
+http://cdnrede.com:80/antonio6179ax/976954ax/217692
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/846.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://cdnrede.com:80/antonio6179ax/976954ax/217690
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/846.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD ²" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS HD ²
+http://cdnrede.com:80/antonio6179ax/976954ax/217693
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+http://cdnrede.com:80/antonio6179ax/976954ax/217689
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD ²" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS SD ²
+http://cdnrede.com:80/antonio6179ax/976954ax/228181
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN SD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/76660.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD²
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/85005
+#EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD¹
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/83443
+#EXTINF:-1 tvg-id="JOVEM PAM SP " tvg-name="JOVEM PAM SP" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Rádios" parent-code="",Jovem Pan [SP]
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/113395
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
+http://45.230.96.42:80/distv/@distv/648
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD " tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/801.m3u8
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31611.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME H265" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/47.m3u8
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31612.m3u8
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
+http://45.230.96.42:80/distv/@distv/652
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/847.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/286.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/74.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/547.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.230.96.42:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://45.230.96.42:80/distv/@distv/625
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD " tvg-logo="https://imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/865.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://ccdnblck.xyz:80/live/images/82aa50639d663c39341a5d56bc254c6c.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/92.m3u8

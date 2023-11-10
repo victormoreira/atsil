@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 group-title="CANAIS: Dublado",AXN HD (HTTP 406 Not Acceptable)
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN HD (HTTP 403 Forbidden)
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Documentários" parent-code="",ID HD (HTTP 500 Internal Server Error)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Alternativos" parent-code="",ID HDᴬ (HTTP 500 Internal Server Error)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50803
+#EXTINF:-1 group-title="FHD TEST",ID INVESTIGAÇÃO DISCOVERY HD (HTTP 406 Not Acceptable)
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/38419.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Documentários" parent-code="",ID SD (HTTP 500 Internal Server Error)
+http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
+#EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD¹ (FFMPEG Undefined Error)
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/83443
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD (HTTP 403 Forbidden)
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31611.m3u8
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME HD (HTTP 403 Forbidden)
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31612.m3u8
