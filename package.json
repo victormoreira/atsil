@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ffmpeg": "^0.0.4",
     "iptv-checker": "^0.28.0"
   },
   "scripts": {
