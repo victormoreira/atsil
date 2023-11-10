@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "iptv-checker": "^0.28.0"
+  },
+  "scripts": {
+    "build": "iptv-checker listinha.m3u8 -o lista"
+  }
+}
