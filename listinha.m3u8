@@ -49,3 +49,61 @@ http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37114
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID: Investigação Discovery HD [ALT]" tvg-logo="https://bit.ly/Logo-tv" parent-code="" group-title="Canais | Alternativos",ID HDᴬ
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50803
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16736.m3u8
+#EXTINF:-1 group-title="FHD TEST",ID INVESTIGAÇÃO DISCOVERY HD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/38419.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD 
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/819.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/257.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY HD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/46.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/501.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD " tvg-logo="https://imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA FHD 
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/865.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://ccdnblck.xyz:80/live/images/82aa50639d663c39341a5d56bc254c6c.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/92.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://ccdnblck.xyz:80/live/images/82aa50639d663c39341a5d56bc254c6c.png" group-title="CANAIS | VARIEDADES",VIVA SD
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD " tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD 
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/801.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME H265" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/47.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/835.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/213.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/4.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/447.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/847.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/286.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/74.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/547.m3u8
+#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png",LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31611.m3u8
+#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png",LIFETIME HD
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31612.m3u8
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.230.96.42:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://45.230.96.42:80/distv/@distv/625
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
+http://45.230.96.42:80/distv/@distv/648
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://45.230.96.42:8080/icones/axn.png" group-title="FILMES&SERIES",AXN
+http://45.230.96.42:80/distv/@distv/632
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
+http://45.230.96.42:80/distv/@distv/652
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.230.96.42:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://45.230.96.42:80/distv/@distv/604
+#EXTINF:-1 group-title="CANAIS: Dublado",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
+#EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
