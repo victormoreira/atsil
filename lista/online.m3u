@@ -61,6 +61,10 @@ http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/76660.m3u
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD²
 http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/85005
+#EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD¹
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/83443
+#EXTINF:-1 tvg-id="JOVEM PAM SP " tvg-name="JOVEM PAM SP" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Rádios" parent-code="",Jovem Pan [SP]
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/113395
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
 http://45.230.96.42:80/distv/@distv/648
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD " tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
@@ -71,12 +75,12 @@ http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/47.m3u8
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
 http://45.230.96.42:80/distv/@distv/652
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
-http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/847.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/286.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/74.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/547.m3u8
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.230.96.42:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
 http://45.230.96.42:80/distv/@distv/625
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD " tvg-logo="https://imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA FHD
