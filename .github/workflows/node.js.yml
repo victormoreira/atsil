@@ -37,4 +37,4 @@ jobs:
         file-path: |
             lista/online.m3u
         commit-msg: Update resources
-        github-token: ${{ secrets.TOKEN }
+        github-token: ${{ secrets.GITHUB_TOKEN }}
