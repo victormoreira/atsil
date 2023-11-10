@@ -11,7 +11,7 @@ on:
     
 jobs:
   build:
-
+    if: github.actor == 'victormoreira'
     runs-on: ubuntu-latest
 
     strategy:
