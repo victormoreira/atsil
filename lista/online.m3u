@@ -3,12 +3,16 @@
 http://45.230.96.42:80/distv/@distv/632
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/835.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
-http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/213.m3u8
 #EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.230.96.42:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
 http://45.230.96.42:80/distv/@distv/604
+#EXTINF:-1 tvg-name="DISCOVERY ID PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="PORTUGAL ",DISCOVERY ID PT
+http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/894.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16736.m3u8
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/819.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/257.m3u8
 #EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTICIAS",JOVEM PAN HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/209.m3u8
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.230.96.42:8080/icones/icones/jovempannews.png" group-title="NEWS" EXTINF:-1 tvg-id="",JOVEM PAN NEWS
@@ -25,8 +29,8 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/847.m3u8
 http://cdnrede.com:80/antonio6179ax/976954ax/217691
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD H265" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD H265
 http://cdnrede.com:80/antonio6179ax/976954ax/217692
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
-http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/846.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://cdnrede.com:80/antonio6179ax/976954ax/217690
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/846.m3u8
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS HD ²" tvg-logo="https://static.b2pteam.com/logos/noticias/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS HD ²
@@ -41,8 +45,14 @@ http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/76660.m3u
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD²
 http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/85005
+#EXTINF:-1 tvg-id="jbf.tv.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Noticias" parent-code="",Jovem Pan News HD¹
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/83443
+#EXTINF:-1 tvg-id="JOVEM PAM SP " tvg-name="JOVEM PAM SP" tvg-logo="https://bit.ly/Logo-tv" group-title="Canais | Rádios" parent-code="",Jovem Pan [SP]
+http://tv.factoryiptv.com:80/fabinhopremium/21aoppjw6dw/113395
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.230.96.42:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
 http://45.230.96.42:80/distv/@distv/648
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD " tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/801.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME H265" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME H265
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
