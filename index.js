@@ -7,7 +7,6 @@ const playlistsDir = "playlists/";
 
 fs.readdirSync(playlistsDir).forEach(file => {
 	var x = playlistsDir + file;
-	console.log(x);
  	var contents = fs.readFileSync(x).toString();
 	var playlist = parseM3U(contents);
 	channels.push(playlist.channels);
