@@ -6,7 +6,7 @@
   "scripts": {
 	"build": "npm run list && npm run check",
 	"list": "node index.js > damn.m3u",
-	"check": "iptv-checker damn.m3u -o lista",
+	"check": "iptv-checker damn.m3u -o lista -t 10000",
 	"test": "echo \"Error: no test specified\""
   }
 }

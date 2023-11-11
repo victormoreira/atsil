@@ -1,13 +1,58 @@
 const { parseM3U, writeM3U }  = require("@iptv/playlist");
 const fs = require('fs');
 
-var contents = fs.readFileSync('listinha.m3u8').toString();
+let channels = [];
 
-const m3u = contents;
-const playlist = parseM3U(m3u);
-const channels  = playlist.channels;
+const playlistsDir = "playlists/";
 
-channels.sort(function (a, b) {
+fs.readdirSync(playlistsDir).forEach(file => {
+	var x = playlistsDir + file;
+	console.log(x);
+ 	var contents = fs.readFileSync(x).toString();
+	var playlist = parseM3U(contents);
+	channels.push(playlist.channels);
+});
+
+const all = channels.reduce(function(result, current) {
+  return Object.assign(result, current);
+}, []);
+
+const search = (arr, query) => { return arr.filter((el) => el.name.toLowerCase().includes(query.toLowerCase())) };
+
+const formatString = (string) => string.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+const found = (arr, strings, groups) => { 
+	return arr.filter((el) => 
+		!!el.name &&
+		!!el.groupTitle &&
+		(groups.some(
+			v => formatString(el.groupTitle).includes(formatString(v))
+		) &&
+ 		strings.some(
+			v => formatString(el.name).includes(formatString(v))
+		))
+	)
+ };
+
+const filters = [
+	"AXN", 
+	"Jovem Pan", 
+	"VIVA", 
+	"LIFETIME",
+	"UNIVERSAL",
+	"Investigação Discovery",
+	"DISCOVERY ID"
+];
+
+const groups = [
+	"TV",
+	"NOTICIAS",
+	"CANAIS"
+];
+
+const t = found(all, filters, groups);
+
+t.sort(function (a, b) {
   if (a.name < b.name) {
     return -1;
   }
@@ -18,7 +63,7 @@ channels.sort(function (a, b) {
 });
 
 const playlistObject = {
-  channels: channels,
+  channels: t,
   headers: {},
 };
 
