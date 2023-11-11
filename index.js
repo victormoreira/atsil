@@ -5,19 +5,6 @@ let channels = [];
 
 const playlistsDir = "playlists/";
 
-fs.readdirSync(playlistsDir).forEach(file => {
-	var x = playlistsDir + file;
- 	var contents = fs.readFileSync(x).toString();
-	var playlist = parseM3U(contents);
-	channels.push(playlist.channels);
-});
-
-const all = channels.reduce(function(result, current) {
-  return Object.assign(result, current);
-}, []);
-
-const search = (arr, query) => { return arr.filter((el) => el.name.toLowerCase().includes(query.toLowerCase())) };
-
 const formatString = (string) => string.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
 const found = (arr, strings, groups) => { 
@@ -49,9 +36,26 @@ const groups = [
 	"CANAIS"
 ];
 
-const t = found(all, filters, groups);
+const ignoreFilterLists = ["listinha.m3u8"];
 
-t.sort(function (a, b) {
+fs.readdirSync(playlistsDir).forEach(file => {
+	var x = playlistsDir + file;
+ 	var contents = fs.readFileSync(x).toString();
+	var playlist = parseM3U(contents);
+	var t = playlist.channels;
+	
+	if (!ignoreFilterLists.includes(file)) {
+		t = found(t, filters, groups);
+	}
+
+	channels.push(t);
+});
+
+const all = channels.reduce(function(result, current) {
+  return Object.assign(result, current);
+}, []);
+
+all.sort(function (a, b) {
   if (a.name < b.name) {
     return -1;
   }
@@ -62,7 +66,7 @@ t.sort(function (a, b) {
 });
 
 const playlistObject = {
-  channels: t,
+  channels: all,
   headers: {},
 };
 
