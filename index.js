@@ -1,24 +1,10 @@
 const { parseM3U, writeM3U }  = require("@iptv/playlist");
-const fs = require('fs');
+const fs = require('fs'); 
+const https = require('https');
 
 let channels = [];
 
 const playlistsDir = "playlists/";
-
-const formatString = (string) => string.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-
-const found = (arr, strings, groups) => { 
-	return arr.filter((el) => 
-		!!el.name &&
-		!!el.groupTitle &&
-		(groups.some(
-			v => formatString(el.groupTitle).includes(formatString(v))
-		) &&
- 		strings.some(
-			v => formatString(el.name).includes(formatString(v))
-		))
-	)
- };
 
 const filters = [
 	"AXN", 
@@ -36,7 +22,26 @@ const groups = [
 	"CANAIS"
 ];
 
-const ignoreFilterLists = ["listinha.m3u8"];
+const formatString = (string) => string.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+const filterByP = (arr, property, strings) => {
+	return arr.filter((el) =>  !!el[property] && strings.some(v => formatString(el[property]).includes(formatString(v))))
+}
+
+const found = (arr, strings, groups) => { 
+	return arr.filter((el) => 
+		!!el.name &&
+		!!el.groupTitle &&
+		(groups.some(
+			v => formatString(el.groupTitle).includes(formatString(v))
+		) &&
+ 		strings.some(
+			v => formatString(el.name).includes(formatString(v))
+		))
+	)
+ };
+
+const ignoreFilterLists = ["listinha.m3u8", "a"];
 
 fs.readdirSync(playlistsDir).forEach(file => {
 	var x = playlistsDir + file;
@@ -44,8 +49,10 @@ fs.readdirSync(playlistsDir).forEach(file => {
 	var playlist = parseM3U(contents);
 	var t = playlist.channels;
 	
+	t = filterByP(t, "groupTitle", groups);	
+
 	if (!ignoreFilterLists.includes(file)) {
-		t = found(t, filters, groups);
+		t = filterByP(t, "name", filters);
 	}
 
 	channels.push(t);
