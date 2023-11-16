@@ -1,6 +1,7 @@
 const { parseM3U, writeM3U }  = require("@iptv/playlist");
 const fs = require('fs'); 
-const https = require('https');
+const IPTVChecker = require('iptv-checker')
+const checker = new IPTVChecker()
 
 let channels = [];
 
@@ -41,7 +42,7 @@ const found = (arr, strings, groups) => {
 	)
  };
 
-const ignoreFilterLists = ["listinha.m3u8", "a"];
+const ignoreFilterLists = ["listinha.m3u8", "alista.m3u"];
 
 fs.readdirSync(playlistsDir).forEach(file => {
 	var x = playlistsDir + file;
