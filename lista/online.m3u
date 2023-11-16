@@ -3,8 +3,8 @@
 http://45.230.96.42:80/distv/@distv/632
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/835.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN HD
-http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/4.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/213.m3u8
 #EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN LEG FHD²" tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="CANAIS | LEGENDADOS",AXN LEG FHD²
@@ -21,6 +21,8 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-VSmETvtBbb/AJjywwOynA/894.m3u8
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16736.m3u8
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/819.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/257.m3u8
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY HD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/46.m3u8
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY SD
@@ -55,6 +57,8 @@ http://45.230.96.42:80/distv/@distv/648
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/801.m3u8
 #EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME FULLHD
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31611.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME H265" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/47.m3u8
 #EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/live/images/501afa9f14a6d193b483e88ae8328b91.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
@@ -67,20 +71,28 @@ http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308131
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308132
 #EXTINF:-1 tvg-name="PL: Axn White" tvg-logo="https://img-cdn.curl.pk/channels_icon/29212794491.png" group-title="CANAIS | POLÔNIA",PL: Axn White
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308129
+#EXTINF:-1 tvg-name="PL: Axn White HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66326332361.png" group-title="CANAIS | POLÔNIA",PL: Axn White HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308130
 #EXTINF:-1 tvg-name="PL: Lifetime HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55589486351.png" group-title="CANAIS | POLÔNIA",PL: Lifetime HD
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308160
+#EXTINF:-1 tvg-name="PL: Scifi Universal" tvg-logo="https://img-cdn.curl.pk/chimg/8854691539.png" group-title="CANAIS | POLÔNIA",PL: Scifi Universal
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308158
 #EXTINF:-1 tvg-name="PL: Scifi Universal HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25252044611.png" group-title="CANAIS | POLÔNIA",PL: Scifi Universal HD
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308157
+#EXTINF:-1 tvg-name="PL: Universal HD" tvg-logo="https://img-cdn.curl.pk/chimg/3108053794.png" group-title="CANAIS | POLÔNIA",PL: Universal HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308280
 #EXTINF:-1 tvg-name="PT: Axn HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97873457161.png" group-title="CANAIS | PORTUGAL",PT: Axn HD
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308007
 #EXTINF:-1 tvg-name="PT: Axn Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon/81761198601.png" group-title="CANAIS | PORTUGAL",PT: Axn Movies
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308008
-#EXTINF:-1 tvg-name="PT: Zap Viva" tvg-logo="https://img-cdn.curl.pk/channels_icon/59375890121.png" group-title="CANAIS | PORTUGAL",PT: Zap Viva
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308012
+#EXTINF:-1 tvg-name="PT: Axn Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30526733641.png" group-title="CANAIS | PORTUGAL",PT: Axn Movies HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/307998
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.230.96.42:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
 http://45.230.96.42:80/distv/@distv/652
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/847.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/286.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/74.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
