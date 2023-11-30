@@ -11,10 +11,8 @@ http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/103228
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/64860
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN SD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/447.m3u8
-#EXTINF:-1 tvg-name="DE: Axn HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83550_dark_360w_270h.png" group-title="CANAIS | ALEMANHA",DE: Axn HD
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/306430
-#EXTINF:-1 tvg-name="DE: Sony Axn FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56933971911.png" group-title="CANAIS | ALEMANHA",DE: Sony Axn FHD
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/306431
+#EXTINF:-1 tvg-name="ES: Axn HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82178_dark_360w_270h.png" group-title="CANAIS | ESPANHA",ES: Axn HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/305690
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/819.m3u8
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY H265" tvg-logo="https://imgur.com/qOaMR06.png" group-title="CANAIS  | DISCOVERY",INVESTIGAÇAO DISCOVERY H265
@@ -49,14 +47,16 @@ http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/801.m3u8
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/258.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://imgur.com/89mH5L2.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/47.m3u8
-#EXTINF:-1 tvg-name="La: Axn" tvg-logo="https://img-cdn.curl.pk/channels_icon/84963730351.png" group-title="CANAIS | LATINOS",La: Axn
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/307560
 #EXTINF:-1 tvg-name="MG: Jovem Pan Patos de Minas 103.3" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/29704.v11.png" group-title="CANAIS | RÁDIOS",MG: Jovem Pan Patos de Minas 103.3
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/44860
 #EXTINF:-1 tvg-name="PL: Axn" tvg-logo="https://img-cdn.curl.pk/channels_icon/21322480931.png" group-title="CANAIS | POLÔNIA",PL: Axn
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308128
-#EXTINF:-1 tvg-name="PL: Axn Spin HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93045401241.png" group-title="CANAIS | POLÔNIA",PL: Axn Spin HD
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308132
+#EXTINF:-1 tvg-name="PL: Axn Black" tvg-logo="https://img-cdn.curl.pk/channels_icon/93461853141.png" group-title="CANAIS | POLÔNIA",PL: Axn Black
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308131
+#EXTINF:-1 tvg-name="PL: Axn White" tvg-logo="https://img-cdn.curl.pk/channels_icon/29212794491.png" group-title="CANAIS | POLÔNIA",PL: Axn White
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308129
+#EXTINF:-1 tvg-name="PL: Lifetime HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55589486351.png" group-title="CANAIS | POLÔNIA",PL: Lifetime HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308160
 #EXTINF:-1 tvg-name="PL: Scifi Universal" tvg-logo="https://img-cdn.curl.pk/chimg/8854691539.png" group-title="CANAIS | POLÔNIA",PL: Scifi Universal
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308158
 #EXTINF:-1 tvg-name="PL: Scifi Universal HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25252044611.png" group-title="CANAIS | POLÔNIA",PL: Scifi Universal HD
@@ -65,6 +65,8 @@ http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308157
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308007
 #EXTINF:-1 tvg-name="PT: Axn Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon/81761198601.png" group-title="CANAIS | PORTUGAL",PT: Axn Movies
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308008
+#EXTINF:-1 tvg-name="PT: Axn Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30526733641.png" group-title="CANAIS | PORTUGAL",PT: Axn Movies HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/307998
 #EXTINF:-1 tvg-name="PT: Axn White HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79266531791.png" group-title="CANAIS | PORTUGAL",PT: Axn White HD
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/308009
 #EXTINF:-1 tvg-name="RJ: Rádio Viva o Samba" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/43143.v5.png" group-title="CANAIS | RÁDIOS",RJ: Rádio Viva o Samba
@@ -79,12 +81,12 @@ http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/286.m3u8
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/74.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/dQuoAHH.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/547.m3u8
+#EXTINF:-1 tvg-name="US: Lifetime HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94687149181.png" group-title="CANAIS | USA",US: Lifetime HD
+http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/304772
 #EXTINF:-1 tvg-name="US: Lifetime Movie Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15310617771.png" group-title="CANAIS | USA",US: Lifetime Movie Network HD
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/304911
 #EXTINF:-1 tvg-name="US: Universal Kids" tvg-logo="https://img-cdn.curl.pk/channels_icon/88017886891.png" group-title="CANAIS | USA",US: Universal Kids
 http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/304857
-#EXTINF:-1 tvg-name="VIVA 4K¹" tvg-logo="http://i.imgur.com/MkVKxeZ.png" group-title="CANAIS | UHD (4K)",VIVA 4K¹
-http://195.128.248.216:8080/zxb5pZsv/bLdPEYR6/275377
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD " tvg-logo="https://imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA FHD
 http://joao-1-us.mainbkonline.shop:80/live/254030092244PW/005125885033/865.m3u8
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://ccdnblck.xyz:80/live/images/82aa50639d663c39341a5d56bc254c6c.png" group-title="CANAIS | VARIEDADES",VIVA HD
